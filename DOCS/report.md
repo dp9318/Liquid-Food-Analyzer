@@ -78,4 +78,88 @@ Existing literature demonstrates a trade-off between accuracy (lab techniques) a
 *In the next sections, we will define our data collection protocol, preprocessing pipeline, model choices (including transfer learning and lightweight CNNs), and validation plan to address the gaps identified above.*
 
 
+## 3. System Overview
+<!-- 
+- Block diagram of the system.
+- Input → Preprocessing → Model Training → Output.
+- Hardware overview (microscope, camera, processing unit).
+- Software overview (Python, C++, TensorFlow/PyTorch, OpenCV).
+-->
+
+---
+
+## 4. Methodology
+<!-- 
+- Data Collection: source, number of samples, labeling protocol.
+- Preprocessing: resizing, noise removal, normalization.
+- Model Training: CNN architectures, transfer learning, hyperparameters.
+- Testing & Evaluation: metrics, confusion matrix.
+- Deployment: hardware/software integration, report generation.
+-->
+
+---
+
+## 5. Implementation
+<!-- 
+- Hardware details: microscope, camera, Raspberry Pi/Arduino/Jetson Nano, sensors.
+- Software modules: preprocessing scripts, ML model scripts, embedded integration.
+- Flowcharts and pseudo-code.
+-->
+
+---
+
+## 6. Results & Analysis
+<!-- 
+- Accuracy, precision, recall of models.
+- Graphs, tables.
+- Comparison with traditional lab methods.
+- Sample outputs.
+-->
+
+---
+
+## 7. Applications & Benefits
+<!-- 
+- Dairy farms, households, food labs.
+- Rapid detection, real-time reporting, automation benefits.
+-->
+
+---
+
+## 8. Challenges & Limitations
+<!-- 
+- Limited dataset.
+- Hardware constraints.
+- Environmental factors (lighting, temperature).
+- Explainability of ML models.
+-->
+
+---
+
+## 9. Future Scope
+<!-- 
+- Extend to other liquids: oil, juice, water.
+- Mobile app integration.
+- Edge AI optimization.
+- Improved dataset collection and labeling.
+-->
+
+---
+
+## 10. Conclusion
+<!-- Summarize achievements and importance of the system. -->
+
+---
+
+## References
+<!-- Add all research papers, websites, and other sources here. Use proper citation style. -->
+
+---
+
+## Appendices
+<!-- 
+- Additional diagrams, code snippets, extended results, raw data examples.
+-->
+
+
 

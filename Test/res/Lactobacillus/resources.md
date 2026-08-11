@@ -1,4 +1,4 @@
-#Resources listed below
+# Resources listed below
 
 Digital Images of Bacteria Species dataset (DIBaS) contains 11 bacteria species of lactobacillus with 20 images for each of them. It was collected by the Chair of Microbiology of the Jagiellonian University in Krakow, Poland (http://www.km.cm-uj.krakow.pl/).
 

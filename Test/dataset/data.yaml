@@ -1,0 +1,6 @@
+names:
+  0: Lactobacillus_delbrueckii
+  1: Lactobacillus_salivarius
+path: D:\proj\Liquid-Food-Analyzer\Test\dataset
+train: images/train
+val: images/train
